@@ -43,6 +43,7 @@ Code generation, conversation, and picture rendering are powered by the OpenAI A
 Music and video generation are accomplished using the Replicate AI API.
 7.	Payment Processing:
 Stripe is seamlessly integrated to manage Pro subscriptions and payments securely.
+
 Learning Outcome:
 The Mind Matrix project has been a transformative experience, equipping me with a diverse set of technical skills and a deeper understanding of AI integration, web development best practices, and user-centric design. This journey has prepared me to take on more complex web development and AI projects and to continue contributing to the ever-evolving field of technology. I look forward to applying these skills in future projects and endeavours.
 
