@@ -1,7 +1,9 @@
 Project Description: Mind Matrix - AI-Powered Web Application
 Overview:
 Mind Matrix is an innovative AI-based web application that offers a suite of creative tools to empower users with code generation, AI image creation, AI music composition, AI picture rendering, AI video production, and engaging conversations. This versatile platform caters to developers, artists, and enthusiasts, providing a stimulating environment for creativity and productivity.
+
 Key Features:
+
 User Authentication:
 The platform is secured with a login page managed by a dedicated clerk.
 Crisp is integrated for efficient error handling and customer support.
@@ -10,6 +12,7 @@ Upon registration, customers are granted 20 free trials to explore the applicati
 •	Pro Version:
 To access advanced features and unlock unlimited creative potential, users can upgrade to the Pro version.
 Payment processing for Pro subscriptions is seamlessly handled through the Stripe payment gateway.
+
 AI-Powered Functionality:
 1.	Code Generation:
 Harness the power of the OpenAI API to generate code effortlessly, streamlining development tasks.
