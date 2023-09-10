@@ -33,7 +33,7 @@ Next.js 13's groundbreaking App Router facilitates seamless client-side routing,
 2.	Frontend:
 Utilize React and Tailwind CSS to create an intuitive and visually appealing user interface.
 3.	Backend:
-Leverage Prisma and MySQL to manage data efficiently and securely.
+Leverage Prisma and postgreSQL to manage data efficiently and securely.
 4.	Authentication:
 Clerk is employed to handle user authentication, providing robust security.
 5.	Error Handling:
